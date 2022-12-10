@@ -1,6 +1,6 @@
 # [__rsschool-cv__](https://app.rs.school/ "aleksandrazinovey.github.io/rsschool-cv/cv#junior-frontend-developer")
 
-![My photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-Cnxz05U2YqYa.jpg?raw=true  "Подпись")
+![My photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-Cnxz05U2YqYa.jpg?raw=true  "My photo")
 
 * * *
 
@@ -63,7 +63,7 @@ __KATA from CODEWARS: Rock Paper Scissors__
 "scissors", "rock" --> "Player 2 won!"
 "paper", "paper" --> "Draw!"*
 
-![Kata photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-oojmBWkegSg1O.jpg?raw=true  "Подпись")
+![Kata photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-oojmBWkegSg1O.jpg?raw=true  "Kata photo")
 
 ```const rps = (p1, p2) => {
 
@@ -103,7 +103,7 @@ __KATA from CODEWARS: Rock Paper Scissors__
 
 - "Software Testing Fundamentals" (completed)
 
-![certificate photo](https://raw.githubusercontent.com/Alya2211/rsschool-cv/gh-pages/images/Alexandra-Zinovey.png  "Подпись")
+![certificate photo](https://raw.githubusercontent.com/Alya2211/rsschool-cv/gh-pages/images/Alexandra-Zinovey.png  "certificate")
 
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
@@ -113,4 +113,4 @@ __KATA from CODEWARS: Rock Paper Scissors__
 - Russian - Native
 - English - Intermediate/Upper-intermediate (according to the online test at EFset [__english certificate__](https://www.efset.org/cert/YKszuR "https://www.efset.org/cert/YKszuR"))
 
-![certificate photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-vZL7yZPB0JPa.jpg?raw=true  "Подпись")
+![certificate photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-vZL7yZPB0JPa.jpg?raw=true  "certificate")
