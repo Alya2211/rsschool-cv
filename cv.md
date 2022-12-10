@@ -2,15 +2,15 @@
 
 ![My photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-Cnxz05U2YqYa.jpg?raw=true  "My photo")
 
-* * *
+
 
 # ___Aleksandra Zinovey___
 
-## Junior Frontend Developer
+### __Junior Frontend Developer__
 
 * * *
 
-Contact information:
+### __Contact information:__
 
 __E-mail:__ aleksandra.zinovey@gmail.com
 
@@ -24,7 +24,7 @@ __Никнейм на Discord сервере:__ Aleksandra Zinovey (@Alya2211)
 
 * * *
 
-## About Me:
+### __About Me:__
 
 I got into the world of programming by accident, but it turned out to be a happy accident for me. I worked as a QA Engineer and decided that i don't want to read someone's code, I want to create it myself. 
 
@@ -36,7 +36,7 @@ My goal is to be a strong developer in order to become a teamlead and be able to
 
 * * *
 
-## Skills and Proficiency:
+### __Skills and Proficiency:__
 
 - HTML 5
 - CSS 3
@@ -49,7 +49,7 @@ My goal is to be a strong developer in order to become a teamlead and be able to
 
 * * *
 
-## Code example:
+### __Code example:__
 
 __KATA from CODEWARS: Rock Paper Scissors__
 
@@ -98,7 +98,7 @@ const rps = (p1, p2) => {
 
 * * *
 
-## Courses:
+### __Courses:__
 
 - "Software Testing Fundamentals" (completed)
 
@@ -108,7 +108,7 @@ const rps = (p1, p2) => {
 
 * * *
 
-## Languages:
+### __Languages:__
 - Russian - Native
 - English - Intermediate/Upper-intermediate (according to the online test at EFset [__english certificate__](https://www.efset.org/cert/YKszuR "https://www.efset.org/cert/YKszuR"))
 
