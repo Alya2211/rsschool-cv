@@ -26,13 +26,13 @@ __Никнейм на Discord сервере:__ Aleksandra Zinovey (@Alya2211)
 
 ## About Me:
 
-I got into the world of programming by accident, but it turned out to be a happy accident for me. I worked as a tester and decided for myself that it is boring for me to read someone's code, I want to create it myself. 
+I got into the world of programming by accident, but it turned out to be a happy accident for me. I worked as a QA Engineer and decided that i don't want to read someone's code, I want to create it myself. 
 
-I am also studying at the university on the last course. I love to collect puzzles, draw and everything related to detectives. 
+I am also studying at the university on the last year. I love to collect puzzles, draw and everything related to detectives. 
 
 My positive qualities: perseverance, attentiveness, responsibility, sociability, stress tolerance, punctuality. 
 
-My goal is to be a strong developer in order to make good money for my family and be able to travel. I dream of working in a friendly team with interesting tasks and cool oppotunities for future.
+My goal is to be a strong developer in order to become a teamlead and be able to travel. I dream of working in a friendly team with interesting tasks and cool oppotunities for future.
 
 * * *
 
