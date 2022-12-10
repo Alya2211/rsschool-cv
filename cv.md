@@ -12,13 +12,11 @@
 
 Contact information:
 
-Phone: +7 951 688 29 18
+__E-mail:__ aleksandra.zinovey@gmail.com
 
-E-mail: aleksandra.zinovey@gmail.com
+__Telegram:__ @aaallyya
 
-Telegram: @aaallyya
-
-Никнейм на Discord сервере: Aleksandra Zinovey (@Alya2211)
+__Никнейм на Discord сервере:__ Aleksandra Zinovey (@Alya2211)
 
 [LinkedIn](https://www.linkedin.com/in/aleksandra-zinovey/ "https://www.linkedin.com/in/aleksandra-zinovey/")
 
