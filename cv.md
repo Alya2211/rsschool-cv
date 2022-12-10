@@ -65,7 +65,8 @@ __KATA from CODEWARS: Rock Paper Scissors__
 
 ![Kata photo](https://github.com/Alya2211/rsschool-cv/blob/gh-pages/images/imgonline-com-ua-Resize-oojmBWkegSg1O.jpg?raw=true  "Kata photo")
 
-```const rps = (p1, p2) => {
+````
+const rps = (p1, p2) => {
 
   if (p1 == "scissors" && p2 == "paper") {
     return `Player 1 won!`;
@@ -95,7 +96,7 @@ __KATA from CODEWARS: Rock Paper Scissors__
     return `Draw!`;
   }
   };
-```
+````
 
 * * *
 
