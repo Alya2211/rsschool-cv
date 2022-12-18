@@ -1,15 +1,252 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
-	<title>
-
-	</title>
-	<link rel="stylesheet" href="css/style.css">
-	<meta http-equiv="Content type" content="text/html;charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Aleksandra Zinovey CV</title>
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+		integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+		crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
+	<header>
+		<h1 align="center">My CV</h1>
+		<nav>
+			<div class="navigation">
+				<a href="#contacts">Contacts</a> | <a href="#skills">Skills</a> |
+				<a href="#aboutme">About Me</a> | <a href="#education">Education</a> | <a href="#code">Code
+					Example</a>
+				| <a href="#project">My Projects</a> | <a href="#languages">Languages</a>
+			</div>
+		</nav>
+	</header>
+	<main>
+		<div class="resume">
+			<div class="resume_left">
+				<div class="resume_profile">
+					<img src="/images/photo me.jpg" alt="My photo">
+				</div>
+				<div class="resume_content">
+					<div class="resume_item resume_info">
+						<div class="title">
+							<p class="bold">aleksandra zinovey</p>
+							<h2 class="regular">Junior Frontend Developer</h2>
+						</div>
+						<ul>
+							<li>
+								<div class="icon" id="contacts">
+
+									<i class="fa fa-home" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									Belgrade <br /> Serbia
+								</div>
+							</li>
+							<li>
+								<div class="icon">
+									<i class="fa fa-paper-plane" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									@aaallyya
+								</div>
+							</li>
+							<li>
+								<div class="icon">
+									<i class="fa fa-envelope-o" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									aleksandra.zinovey@gmail.com
+								</div>
+							</li>
+							<li>
+								<div class="icon">
+									<i class="fa fa-comments" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									Aleksandra Zinovey (@Alya2211)
+								</div>
+							</li>
+							<li>
+								<div class="icon">
+									<i class="fa fa-linkedin" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									https://www.linkedin.com/in/aleksandra-zinovey/
+								</div>
+							</li>
+							<li>
+								<div class="icon">
+									<i class="fa fa-github" aria-hidden="true"></i>
+								</div>
+								<div class="data">
+									https://github.com/Alya2211
+								</div>
+							</li>
+						</ul>
+					</div>
+					<div class="resume_item resume_skills">
+						<div class="title">
+							<p class="bold" id="skills">skill's</p>
+						</div>
+						<ul>
+							<li>
+								<div class="skill_name">
+									HTML
+								</div>
+								<div class="skill_progress">
+									<span style="width: 80%;"></span>
+								</div>
+								<div class="skill_per">80%</div>
+							</li>
+							<li>
+								<div class="skill_name">
+									CSS
+								</div>
+								<div class="skill_progress">
+									<span style="width: 70%;"></span>
+								</div>
+								<div class="skill_per">70%</div>
+							</li>
+							<li>
+								<div class="skill_name">
+									Apache JMeter
+								</div>
+								<div class="skill_progress">
+									<span style="width: 60%;"></span>
+								</div>
+								<div class="skill_per">60%</div>
+							</li>
+							<li>
+								<div class="skill_name">
+									JS
+								</div>
+								<div class="skill_progress">
+									<span style="width: 30%;"></span>
+								</div>
+								<div class="skill_per">30%</div>
+							</li>
+							<li>
+								<div class="skill_name">
+									Atlassian Jira
+								</div>
+								<div class="skill_progress">
+									<span style="width: 90%;"></span>
+								</div>
+								<div class="skill_per">90%</div>
+							</li>
+						</ul>
+					</div>
+					<div class="resume_item resume_social">
+						<div class="title">
+							<p class="bold" id="languages">Languages</p>
+						</div>
+						<ul>
+							<li>
+								Russian &mdash; Native
+							</li>
+							<li>
+								English &mdash; B2
+							</li>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="resume_right">
+				<div class="resume_item resume_about">
+					<div class="title">
+						<p class="bold" id="aboutme">About Me</p>
+					</div>
+					<p>I got into the world of programming by accident, but it turned out to be a happy accident for me.
+						I
+						worked as a QA Engineer and decided that i don’t want to read someone’s code, I want to create
+						it
+						myself.
+						<br>
+						<br>
+						I am also studying at the university on the last year. I love to collect puzzles, draw and
+						everything related to detectives.
+						<br>
+						<br>
+						My positive qualities: perseverance, attentiveness, responsibility, sociability, stress
+						tolerance,
+						punctuality.
+						<br>
+						<br>
+						My goal is to be a strong developer in order to become a teamlead and be able to travel. I dream
+						of
+						working in a friendly team with interesting tasks and cool oppotunities for future.
+					</p>
+				</div>
+				<div class="resume_item resume_work">
+					<div class="title">
+						<p class="bold" id="code">Code example</p>
+					</div>
+					<pre>
+					<code>function numberToString(num) {
+						return num.toString();
+					  }</code>
+					</pre>
+				</div>
+				<div class="resume_item resume_education">
+					<div class="title">
+						<p class="bold" id="education">Education</p>
+					</div>
+					<ul>
+						<li>
+							<b>
+								<div class="date"><b>2018 - 2023</b></div>
+								<div class="info">
+									<p class="semi-bold">Bachelor's degree in Economics</p>
+									<p>Saint Petersburg State University of Aerospace and Instrumentation</p>
+								</div>
+						</li>
+						<li>
+							<div class="date"><b>November 2020 - February 2021</b></div>
+							<div class="info">
+								<p class="semi-bold">QA Engineer</p>
+								<p>Software Testing Fundamentals</p>
+							</div>
+						</li>
+						<li>
+							<div class="date"><b>Present</b></div>
+							<div class="info">
+								<p class="semi-bold">Junior Frontend Developer</p>
+								<p>RS School</p>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="resume_item resume_project">
+					<div class="title">
+						<p class="bold" id="project">My Projects</p>
+						<a href="https://alya2211.github.io/work_1/" target="_blank">
+							<img src="/images/my project preview.png" alt="project" width="400" height="300">
+						</a>
+						<a href="https://Alya2211.github.io/rsschool-cv/" target="_blank">
+							<img src="/images/mycv.png" alt="project" width="400" height="400">
+						</a>
+					</div>
+					<ul>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</main>
+	<footer class="footer-distributed">
+
+		<div class="footer-left">
+			<div class="footer-icons">
+				<a href="https://rs.school/js/"><img src="/images/rs_school_js.svg"></a>
+				<a href="https://www.linkedin.com/in/aleksandra-zinovey/"><i class="fa fa-linkedin"></i></a>
+				<a href="https://github.com/Alya2211"><i class="fa fa-github"></i></a>
+			</div>
+		</div>
+		<p align="center">2022</p>
+	</footer>
 </body>
 
 </html>
