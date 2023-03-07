@@ -184,6 +184,7 @@ body {
 }
 
 .navigation a {
+	padding: 0px 20px 0px 0px;
 	text-decoration: none;
 	color: #01090c;
 }
@@ -224,6 +225,7 @@ body {
 
 .footer-distributed p {
 	font-size: 40px;
+	text-align: center;
 }
 
 .footer-distributed .footer-left {
