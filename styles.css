@@ -219,7 +219,7 @@ body {
 
 .footer-distributed {
 	position: absolute;
-	top: 2250px;
+	top: 1500px;
 	left: 1000px;
 }
 
@@ -229,26 +229,5 @@ body {
 }
 
 .footer-distributed .footer-left {
-	text-align: center
-}
-
-.footer-distributed .footer-icons {
-	margin-top: 40px;
-}
-
-.footer-distributed .footer-icons a {
-	display: inline-block;
-	width: 65px;
-	height: 65px;
-	cursor: pointer;
-	background-color: #33383b;
-	border-radius: 20px;
-
-	font-size: 40px;
-	color: #ffffff;
 	text-align: center;
-	line-height: 60px;
-
-	margin-right: 30px;
-	margin-bottom: 5px;
 }
